@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-end development , UI&UX Design , graphic design
 - 🌱 I’m currently learning VueJs , vuetify
 - 💞️ I’m looking to collaborate on Open Source Projects
-- 👨‍💻 All of my projects are available at https://www.behance.net/zakarianasri1
+- 👨‍💻 All of my design projects are available at https://www.behance.net/zakarianasri1
 - 📫 How to reach me zakaria.nasri@univ-constantine2.dz
 
 <!---
