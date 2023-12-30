@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zakaria Nasri</h1>
 <h3 align="center">A passionate Frontend developer/ Graphic designer from Algeria</h3>
-![my GIF](https://ibb.co/dbRfCR7)
+
+
+
 - 🌱 I’m currently learning **Flutter , React**
 
 - 👯 I’m looking to collaborate on [Hackathon23 devfest (KufiBot)](https://github.com/Amani-Sedrat/devfest23)
