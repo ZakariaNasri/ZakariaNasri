@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Zakaria Nasri</h1>
-<h3 align="center">A passionate Frontend developer/ Graphic designer from Algeria</h3>
 <p align="center">
-  <img src="https://github.com/ZakariaNasri/ZakariaNasri/assets/129872644/a0cd81b2-29c2-4f16-be63-823335684888" alt="Zakaria Nasri GIF" width="500">
+  <img src="https://github.com/ZakariaNasri/ZakariaNasri/assets/129872644/a0cd81b2-29c2-4f16-be63-823335684888" alt="Zakaria Nasri GIF" width="400">
 </p>
 
-
+<h1 align="center">Hi 👋, I'm Zakaria Nasri</h1>
+<h3 align="center">A passionate Frontend developer/ Graphic designer from Algeria</h3>
 
 - 🌱 I’m currently learning **Flutter , React**
 
