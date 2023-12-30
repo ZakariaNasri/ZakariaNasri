@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zakaria Nasri</h1>
 <h3 align="center">A passionate Frontend developer/ Graphic designer from Algeria</h3>
 
-<img align="center" src="https://ibb.co/dbRfCR7" alt="Zakaria Nasri GIF">
+<img align="center" src="[https://ibb.co/dbRfCR7](https://images.app.goo.gl/cPNrVYXYhBhfpeJFA)" alt="Zakaria Nasri GIF">
 
 - 🌱 I’m currently learning **Flutter , React**
 
