@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/zedkarianasri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zedkarianasri" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zakaria-nasri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakaria-nasri" height="30" width="40" /></a>
-<a href="https://fb.com/zakaria nasri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zakaria nasri" height="30" width="40" /></a>
+<a href="https://www.facebook.com/zakaria.nasri.984" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zakaria nasri" height="30" width="40" /></a>
 <a href="https://instagram.com/zaxdesignz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zaxdesignz" height="30" width="40" /></a>
 <a href="https://www.behance.net/zakarianasri1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="zakarianasri1" height="30" width="40" /></a>
 </p>
