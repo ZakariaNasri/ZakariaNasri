@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on [Hackathon23 devfest (KufiBot)](https://github.com/Amani-Sedrat/devfest23)
-
 - 👨‍💻 All of my Design projects are available at [https://www.behance.net/zakarianasri1](https://www.behance.net/zakarianasri1)
 
 - 💬 Ask me about **Vue.js, Vuetify**
